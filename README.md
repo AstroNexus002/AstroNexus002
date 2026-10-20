@@ -5,7 +5,6 @@
 **I design and ship production-grade AI products, SaaS platforms, and cloud infrastructure, from first architecture sketch to scale.**
 
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20me-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-View-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/Status-Available%20for%20projects-16a34a?style=flat-square" alt="Available for projects"/>
 
@@ -73,13 +72,6 @@ Senior engineer with **8+ years** building software that has to work in producti
 - **Communication:** async-friendly, with regular progress updates and written documentation.
 - **Quality:** typed code, automated tests, code review, and CI from day one.
 - **Production mindset:** logging, monitoring, security, and cost are part of the design, not afterthoughts.
-
-### GitHub Activity
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AstroNexus002&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroNexus002&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Top languages"/>
-</div>
 
 ---
 
